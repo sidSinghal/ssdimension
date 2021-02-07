@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.navbar-brand-custom {
+    display: inline-block;
+    object-fit: cover;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    margin-right: 0.8rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+  }
+  .navbar-brand-custom, .navbar-brand:focus {
+    text-decoration: none;
+  }
